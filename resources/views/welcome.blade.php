@@ -13,6 +13,7 @@
         <style>
             html, body {
                 background-color: #fff;
+                background-image: url('/images/tobias_splash.jpg');
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -45,11 +46,12 @@
             }
 
             .title {
-                font-size: 84px;
+                font-size: 150px;
+                color: #fff;
             }
 
             .links > a {
-                color: #636b6f;
+                color: #fff;
                 padding: 0 25px;
                 font-size: 13px;
                 font-weight: 600;
@@ -81,6 +83,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
+                Ecommerce
                 </div>
 
                 

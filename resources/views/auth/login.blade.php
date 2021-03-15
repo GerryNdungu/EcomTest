@@ -57,7 +57,9 @@
                                     {{ __('Login') }}
                                 </button>
                                 <a href="login/google" class="btn btn-danger">
+                                    <i class="fas-fa-google"></i>
                                     Login with Google
+
                                 </a>
                                 @if (Route::has('password.request'))
                                     <a class="btn btn-link" href="{{ route('password.request') }}">
